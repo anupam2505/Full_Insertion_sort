@@ -4,7 +4,7 @@
 
 Approach to sort an entire unsorted array.
 
-### * Input
+### Input
 
 
 	n - Size of array
@@ -16,7 +16,7 @@ Approach to sort an entire unsorted array.
 
 
 
-### * Output
+### Output
 
 Sorted array
 
