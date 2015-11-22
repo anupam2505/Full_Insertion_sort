@@ -4,9 +4,9 @@
 
 Approach to sort an entire unsorted array.
 
-###Input
+### *Input
 
-...
+'''
 n - Size of array
 
 ar - unsorted array
@@ -15,13 +15,13 @@ ar - unsorted array
 
 1 4 3 5 7 2
 
-...
+'''
 
-### Output
+### *Output
 
 Sorted array
 
-...
+'''
 1 4 3 5 7 2
 
 1 3 4 5 7 2
@@ -32,4 +32,4 @@ Sorted array
 
 1 2 3 4 5 7
 
-...
+'''
