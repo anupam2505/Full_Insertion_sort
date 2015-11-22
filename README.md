@@ -4,28 +4,25 @@
 
 Approach to sort an entire unsorted array.
 
-### Input
+### * Input
 
-&lt;p&gt;
-n - Size of array
 
-ar - unsorted array
+	n - Size of array
 
-6
+	ar - unsorted array
 
-1 4 3 5 7 2
+	6
+	1 4 3 5 7 2
 
-&lt;/p&gt;
 
-### Output
 
-&lt;p&gt;
+### * Output
+
 Sorted array
 
-1 4 3 5 7 2
-1 3 4 5 7 2
-1 3 4 5 7 2
-1 3 4 5 7 2
-1 2 3 4 5 7
+	1 4 3 5 7 2
+	1 3 4 5 7 2
+	1 3 4 5 7 2
+	1 3 4 5 7 2
+	1 2 3 4 5 7
 
-&lt;/p&gt;
